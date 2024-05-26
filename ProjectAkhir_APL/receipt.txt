@@ -1,0 +1,29 @@
+Username: j
+Produk: Chitato
+Harga: Rp12000
+Jumlah: 1
+Total: Rp12000
+====================
+Pembelian oleh j:
+====================
+Produk: Chitato
+Harga: Rp12000
+Jumlah: 2
+Total: Rp24000
+--------------------
+Total Harga: Rp24000
+====================
+Pembelian oleh j:
+====================
+Produk: Chitato
+Harga: Rp12000
+Jumlah: 1
+Total: Rp12000
+--------------------
+Produk: Indomie
+Harga: Rp2500
+Jumlah: 1
+Total: Rp2500
+--------------------
+Total Harga: Rp14500
+====================
